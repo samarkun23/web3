@@ -14,6 +14,7 @@ import { clusterApiUrl } from '@solana/web3.js';
 import '@solana/wallet-adapter-react-ui/styles.css';
 import './App.css'
 import { Airdrop } from './Airdrop';
+import { SignMessageButton } from './SignMessageButtion';
 
 function App() {
 
@@ -26,6 +27,11 @@ function App() {
           <WalletDisconnectButton />
           <div>
             <Airdrop /> 
+
+            <div>
+              For Sign a message
+              <SignMessageButton />
+            </div>
           </div>
 
         </WalletModalProvider>
