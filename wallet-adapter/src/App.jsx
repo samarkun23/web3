@@ -27,6 +27,7 @@ function App() {
           <div>
             <Airdrop /> 
           </div>
+
         </WalletModalProvider>
       </ WalletProvider>
     </ConnectionProvider>
