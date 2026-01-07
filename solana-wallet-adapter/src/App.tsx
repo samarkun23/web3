@@ -13,6 +13,7 @@ import { clusterApiUrl } from '@solana/web3.js';
 import '@solana/wallet-adapter-react-ui/styles.css';
 import { RequestAirdrop } from './RequestAirdrop';
 import { ShowBalance } from './ShowBalance';
+import { SendToken } from './SendToken';
 
 function App() {
 
@@ -24,9 +25,13 @@ function App() {
                         <div>
                             <WalletMultiButton />
                             <WalletDisconnectButton />
-                            <RequestAirdrop />
+                            {/* <RequestAirdrop />
                             { /* Your app's components go here, nested within the context providers. */}
-                            <ShowBalance />
+                            {/* <ShowBalance /> */} 
+
+                            <div style={{margin: "100px"}}>
+                                <SendToken />
+                            </div>
                         </div>
                     </WalletModalProvider>
                 </WalletProvider>

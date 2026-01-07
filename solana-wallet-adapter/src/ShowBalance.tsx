@@ -20,7 +20,7 @@ export function ShowBalance() {
 
     return (
         <div>
-            {balance === null ? "No wallet connected" : `${balance} lamports`}
+            {balance === null ? "No wallet connected" : `Balance : ${balance} lamports`}
         </div>
     )
 }
