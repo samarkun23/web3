@@ -1,0 +1,11 @@
+/var/home/samarkun/Downloads/web3/first-solana/target/debug/deps/borsh-6f54c79971cde181.d: /home/samarkun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.6.1/src/lib.rs /home/samarkun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.6.1/src/de/mod.rs /home/samarkun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.6.1/src/de/hint.rs /home/samarkun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.6.1/src/ser/mod.rs /home/samarkun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.6.1/src/ser/helpers.rs /home/samarkun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.6.1/src/error.rs /home/samarkun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.6.1/src/../docs/rustdoc_include/borsh_crate_top_level.md
+
+/var/home/samarkun/Downloads/web3/first-solana/target/debug/deps/libborsh-6f54c79971cde181.rmeta: /home/samarkun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.6.1/src/lib.rs /home/samarkun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.6.1/src/de/mod.rs /home/samarkun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.6.1/src/de/hint.rs /home/samarkun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.6.1/src/ser/mod.rs /home/samarkun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.6.1/src/ser/helpers.rs /home/samarkun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.6.1/src/error.rs /home/samarkun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.6.1/src/../docs/rustdoc_include/borsh_crate_top_level.md
+
+/home/samarkun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.6.1/src/lib.rs:
+/home/samarkun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.6.1/src/de/mod.rs:
+/home/samarkun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.6.1/src/de/hint.rs:
+/home/samarkun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.6.1/src/ser/mod.rs:
+/home/samarkun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.6.1/src/ser/helpers.rs:
+/home/samarkun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.6.1/src/error.rs:
+/home/samarkun/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.6.1/src/../docs/rustdoc_include/borsh_crate_top_level.md:
